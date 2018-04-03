@@ -13,7 +13,7 @@ import glob
 import hla
 from hla import allele_truncate, locus_string_geno_list, expand_ac, single_locus_allele_codes_genotype
 
-#from ttb_allan import __version__
+from ttb_allan import __version__
 
 __author__ = "Gragert Lab"
 __copyright__ = "Gragert Lab"
