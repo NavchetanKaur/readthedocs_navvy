@@ -1,0 +1,30 @@
+ttb\_allan package
+==================
+
+Submodules
+----------
+
+ttb\_allan.conversion\_functions module
+---------------------------------------
+
+.. automodule:: ttb_allan.conversion_functions
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+ttb\_allan.hla module
+---------------------
+
+.. automodule:: ttb_allan.hla
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+Module contents
+---------------
+
+.. automodule:: ttb_allan
+    :members:
+    :undoc-members:
+    :show-inheritance:
